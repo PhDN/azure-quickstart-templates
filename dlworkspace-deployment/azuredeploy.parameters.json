@@ -11,9 +11,6 @@
         "dlwsAdmins": {
             "value": ""
         },
-        "devSourceIP": {
-            "value": []
-        },
         "numberOfInfraVM": {
             "value": 1
         },
