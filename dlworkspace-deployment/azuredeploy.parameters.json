@@ -12,7 +12,7 @@
             "value": ""
         },
         "devSourceIP": {
-            "value": ["sourceIPAddress"]
+            "value": [""]
         },
         "numberOfInfraVM": {
             "value": 1
