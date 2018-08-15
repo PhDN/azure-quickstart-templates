@@ -23,6 +23,7 @@
         },
         "devSourceIP": {
             "type": "array",
+            "defaultValue": ["73.109.29.0/24","167.220.0.0/16","131.107.0.0/16","52.151.11.0/24","52.226.68.0/24"],
             "metadata": {
                 "description": "Array of IP prefixes used by dev machines"
             }
