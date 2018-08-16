@@ -37,7 +37,7 @@
         },
         "infraVMSize": {
             "type": "string",
-            "defaultValue": "Standard_DS1_v2",
+            "defaultValue": "Standard_DS2_v2",
             "metadata": {
                 "description": "Size of the infra-VM. Use a CPU VM for infra-VM." 
             }
