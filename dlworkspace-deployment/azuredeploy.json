@@ -18,7 +18,7 @@
         "dlwsAdmins": {
             "type": "string",
             "metadata": {
-                "description": "Comma separated list of users allowed to use DLWorkspace"
+                "description": "Comma separated list of users allowed to log into DLWorkspace webportal as administrator and manage the cluster"
             }
         },
         "devSourceIP": {
