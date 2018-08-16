@@ -450,7 +450,6 @@
                             "access": "Allow",
                             "priority": 900,
                             "direction": "Inbound",
-                            "sourceAddressPrefix": "[parameters('devSourceIP')]",
                             "sourceAddressPrefixes": "[parameters('devSourceIP')]",
                             "sourcePortRange": "*",
                             "destinationAddressPrefix": "*",
